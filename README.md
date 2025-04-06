@@ -1,4 +1,4 @@
-# portfolio-
+# portfolio-Resume-Python-Script
 class Resume:
     def __init__(self, name, location, phone, email, portfolio, summary, skills, experience, education):
         self.name = name
